@@ -1,0 +1,86 @@
+
+body {
+	background-color: WhiteSmoke;
+}
+
+
+.header {
+	position: fixed;
+	float: left;
+	width: 97%;
+	margin-top:-2%;
+	margin-left:1%;
+	/*border:1px solid black*/;
+	background-color: Black;
+}
+
+.logo {
+	float: left;
+	width: 21%;
+	/*border:1px solid black*/;
+}
+
+.sitename {
+	float: left;
+	padding: 1%;
+	width: 76%;
+	background-color: black;
+	/*border:1px solid black*/;
+}
+
+h1 {
+	color: yellow;
+	font-size: 3vw;
+}
+
+h2 {
+	color: yellow;
+	font-size: 1vw;
+}
+
+p {
+	color: DimGray;
+}
+
+
+.style {
+	clear: all;
+}
+
+
+.navbox {
+	position: fixed;
+	float: left;
+	/*border: 1px solid LightGray*/;
+	margin-left:1%;
+	margin-top:15%;
+	padding-left:1%;
+	padding-right:1%;
+	width: 18%;
+	background-color: White;
+}
+
+.textbox {
+	float: left;
+	border:1px solid WhiteSmoke;
+	margin-top:15%;
+	margin-left:22%;
+	margin-right:1%;
+	padding-left:1%;
+	padding-right:1%;
+	width: 64%;
+	background-color: White;
+}
+
+.rightboxtext {
+	position: fixed;
+	/*float: left;*/
+	/*border:1px solid LightGray*/;
+	width:8%;
+	margin-left:88%;
+	margin-top:15%;
+	padding-left:1%;
+	padding-right:1%;
+	background-color: White;
+}
+

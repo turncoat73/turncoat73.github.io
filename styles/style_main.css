@@ -1,4 +1,3 @@
-
 body {
 	background-color: WhiteSmoke;
 }
@@ -72,6 +71,13 @@ p {
 	background-color: White;
 }
 
+.photo {
+	width: 35%;
+	/*border:1px solid black*/;
+}
+
+
+
 .rightboxtext {
 	position: fixed;
 	/*float: left;*/
@@ -83,4 +89,3 @@ p {
 	padding-right:1%;
 	background-color: White;
 }
-
